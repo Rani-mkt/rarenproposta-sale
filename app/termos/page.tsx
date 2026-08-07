@@ -65,8 +65,8 @@ export default function TermosPage() {
         <p className="mt-8 leading-relaxed text-muted-foreground">
           Este documento estabelece as regras de uso e a política de privacidade do software Raren
           Proposta, operado de forma independente por{' '}
-          <span className="text-foreground">[Seu Nome Completo]</span>, sob o CPF{' '}
-          <span className="text-foreground">[Seu CPF]</span>, com suporte através do e-mail{' '}
+          <span className="text-foreground">Ranielle Mauren Barbosa Mota</span>, sob o CPF{' '}
+          <span className="text-foreground">04503790510</span>, com suporte através do e-mail{' '}
           <a
             href="mailto:raren.adm@gmail.com"
             className="text-brand-light underline underline-offset-2"
