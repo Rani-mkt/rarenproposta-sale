@@ -56,7 +56,7 @@ export function Pricing() {
               </p>
 
               <a
-                href="https://www.asaas.com/c/bqexnb8gwaint2no"
+                href="https://www.asaas.com/c/265wl2lyudngj1fl"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-8 flex w-full items-center justify-center gap-2 rounded-full bg-primary px-6 py-4 text-sm font-semibold text-primary-foreground shadow-[0_0_34px_-4px_var(--brand-light)] transition-all hover:shadow-[0_0_52px_-2px_var(--brand-light)] hover:brightness-110"
